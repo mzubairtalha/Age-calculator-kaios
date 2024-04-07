@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "name": "Age Calculator",
+  "subtitle": "Calculate Your Precise Age",
+  "description": "Discover your exact age in years, months, and days with our intuitive Age Calculator. Whether you're marking a birthday, tracking an anniversary, or just satisfying your curiosity, our app provides precise age calculations and interesting facts. Navigate easily with keyboard-friendly features and celebrate every moment with accuracy.",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icons/icon56x56.png",
+    "112": "/icons/icon112x112.png"
+  },
+  "permissions": {
+    "mobiledata": {},
+    "wifidata": {}
+  },
+  "developer": {
+    "name": "M Zubair Talha",
+    "url": "https://youtube.com/@zubitechofficial?si=ojRNHU7gTR58eIr3"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Age Calculator",
+      "subtitle": "Your Personal Age Tracker",
+      "description": "Get to know your exact age to the very day with our user-friendly Age Calculator. Keep track of important dates with ease and find out how many days are left until your next milestone. Enhanced with keyboard navigation, our app is designed for convenience and fun."
+    }
+  },
+  "default_locale": "en-US",
+  "fullscreen": "true"
+}
